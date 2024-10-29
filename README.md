@@ -4,7 +4,7 @@
 
 Hi there! 👋 I'm a full-stack developer who loves turning ideas into amazing web applications! With a knack for both front-end design and back-end architecture, I thrive on creating seamless user experiences.
 
-Skills: JS / REACT / JS / HTML / CSS/ C / C++
+Skills: JS / REACT / Node JS/ HTML / CSS/ C / C++
 
 - 🔭 I’m currently working on Git Stream project 
 - 🌱 I’m currently learning DSA 
