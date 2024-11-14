@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Arafat Patwary
 #### Fullstack Developer
 
-
-Hi there! 👋 I'm a full-stack developer who loves turning ideas into amazing web applications! With a knack for both front-end design and back-end architecture, I thrive on creating seamless user experiences.
+👋 I'm a full-stack developer who loves turning ideas into amazing web applications! With a knack for both front-end design and back-end architecture, I thrive on creating seamless user experiences.
 
 Skills: JS / REACT / Node JS/ HTML / CSS/ C / C++
 
