@@ -1,23 +1,41 @@
-### Hi there 👋, I'm Arafat Patwary
-#### Fullstack Developer
+<h2 align="left">Hi there 👋, I'm Arafat Patwary!<br> Full-Stack Developer who loves turning ideas into amazing web applications! With a knack for both front-end design and back-end architecture, I thrive on creating seamless user experiences.</h2>
 
-👋 I'm a full-stack developer who loves turning ideas into amazing web applications! With a knack for both front-end design and back-end architecture, I thrive on creating seamless user experiences.
+###
 
-Skills: JS / REACT / Node JS/ HTML / CSS/ C / C++
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🔭 I’m currently working on GitStream Project 
-- 🌱 I’m currently learning DSA 
-- 👯 I’m looking to collaborate on  I’m eager to collaborate on open-source projects focused on Data Structures & Algorithms, problem-solving challenges, and database management." 
-- 🤔 I’m looking for help with "I’m looking for help with optimizing my algorithms for efficiency and understanding advanced data structures in C++." 
-- 💬 Ask me about "Ask me about algorithms, data structures, code optimization, database design, and scaling solutions." 
-- 📫 How to reach me: https://www.linkedin.com/in/arafat-patwary-hg7hew087lhj/ 
-- 😄 Pronouns: He 
-- ⚡ Fun fact:  I’m passionate about hiking and camping in the jungle — connecting with nature is my ultimate way to recharge!" 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/arafat-fullstackdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arafat-patwary-hg7hew087lhj//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/frank.farabi.5/)  
+###
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<div align="left">
+  <a href="https://www.linkedin.com/in/arafat-patwary-hg7hew087lhj/?_l=en_US" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/arafat-fullstackdev)](https://github.com/anuraghazra/github-readme-stats)
-
+###
