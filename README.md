@@ -52,7 +52,13 @@ I’m currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Py
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cotage&layout=compact&theme=tokyonight)
+
+---
+
+## 📧 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arafat-patwary-hg7hew087lhj/?_l=en_US" target="_blank">
