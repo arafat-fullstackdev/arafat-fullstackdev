@@ -54,8 +54,10 @@ I’m currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Py
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight)
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=tokyonight" alt="Top Languages" style="margin: 10px;">
+</div>
 
 ---
 
