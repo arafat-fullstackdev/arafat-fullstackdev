@@ -55,9 +55,15 @@ I’m currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Py
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" style="margin: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" style="margin: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-fullstackdev&theme=tokyonight" alt="GitHub Streak Stats" style="margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+       alt="GitHub profile statistics for Arafat Fullstack Developer" 
+       style="margin: 10px;" loading="lazy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=tokyonight&cache_seconds=1800" 
+       alt="Most used programming languages for Arafat Fullstack Developer" 
+       style="margin: 10px;" loading="lazy">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-fullstackdev&theme=tokyonight" 
+       alt="GitHub streak stats for Arafat Fullstack Developer" 
+       style="margin: 10px;" loading="lazy">
 </div>
 
 
