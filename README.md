@@ -54,7 +54,7 @@ I’m currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Py
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight&cache_seconds=1800" 
        alt="GitHub profile statistics for Arafat Fullstack Developer" 
        style="margin: 10px;" loading="lazy">
@@ -65,9 +65,6 @@ I’m currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Py
        alt="GitHub streak stats for Arafat Fullstack Developer" 
        style="margin: 10px;" loading="lazy">
 </div>
-
-
-
 
 ---
 
