@@ -12,27 +12,49 @@ I’m currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Py
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
+  <span style="font-size: 18px;"> JavaScript </span>
+  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
-  <img width="12" />
+  <span style="font-size: 18px;"> TypeScript </span>
+  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img width="12" />
+  <span style="font-size: 18px;"> React </span>
+  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
-  <img width="12" />
+  <span style="font-size: 18px;"> Node.js </span>
+  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
-  <img width="12" />
+  <span style="font-size: 18px;"> MongoDB </span>
+  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
-  <img width="12" />
+  <span style="font-size: 18px;"> Firebase </span>
+  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
+  <span style="font-size: 18px;"> HTML5 </span>
+  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
+  <span style="font-size: 18px;"> CSS3 </span>
+  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
+  <span style="font-size: 18px;"> Python </span>
+  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+  <span style="font-size: 18px;"> C++ </span>
 </div>
+
 
 ---
 
