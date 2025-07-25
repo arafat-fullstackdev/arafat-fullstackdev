@@ -5,8 +5,9 @@
 
 ## 🌟 About Me
 
-I’m a **Full-Stack Developer** who loves turning ideas into amazing web applications! With a knack for both **front-end design** and **back-end architecture**, I thrive on creating seamless user experiences.  
-I’m currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Python** to build scalable and maintainable applications.
+I'm a Full-Stack Developer who loves turning ideas into amazing web applications! With a knack for both front-end design and back-end architecture, I thrive on creating seamless user experiences.
+
+I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build scalable and maintainable applications.
 
 ---
 
