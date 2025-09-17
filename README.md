@@ -21,8 +21,6 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<!--   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> -->
-<!--   <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> -->
 </div>
 
 ---
@@ -45,11 +43,10 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-  <img src="https://YOUR-NEW-URL/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight"
+  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight"
        alt="GitHub profile statistics for Arafat Fullstack Developer">
-  <img src="https://YOUR-NEW-URL/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=tokyonight&hide=css,html"
+  <img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=tokyonight&hide=css,html"
        alt="Most used programming languages for Arafat Fullstack Developer">
   <img src="https://streak-stats.demolab.com?user=arafat-fullstackdev&theme=tokyonight"
        alt="GitHub streak stats for Arafat Fullstack Developer">
@@ -67,5 +64,5 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 
 ---
 
-> *"The best way to predict the future is to create it."*  
+> *"The best way to predict the future is to create it."*
 > - **Peter Drucker**
