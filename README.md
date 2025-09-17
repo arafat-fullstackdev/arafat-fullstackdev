@@ -43,58 +43,13 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 
 ## 📊 GitHub Stats
 
-<h1 align="center">👋 Hi there, I'm Arafat Patwary!</h1>
-<h3 align="center">Full-Stack Developer | Passionate about crafting seamless web experiences</h3>
-
----
-
-## 🌟 About Me
-
-I'm a Full-Stack Developer who loves turning ideas into amazing web applications! With a knack for both front-end design and back-end architecture, I thrive on creating seamless user experiences.
-
-I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build scalable and maintainable applications.
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</div>
-
----
-
-## 🔥 My Expertise
-
-- **Front-End Development**: Building responsive UIs with **React.js** and **TypeScript**.
-- **Back-End Development**: Creating robust REST APIs with **Node.js**, **Express**, and **MongoDB**.
-- **Performance Optimization**: Ensuring applications run smoothly and efficiently.
-- **Learning & Growth**: Actively enhancing skills in **Python** and **TypeScript** to stay ahead in the tech world.
-
----
-
-## 🏆 Achievements
-
-- **MERN Stack Projects**: Successfully developed and deployed scalable full-stack web applications.
-- **Udemy MERN Course**: Completed comprehensive training in MERN Stack development.
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
   <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=radical" height="180em" />
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=radical&hide=html,css" height="180em" />
+  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=radical&hide=html,css" height="180em" />
 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=arafat-fullstackdev&theme=radical&hide_border=true" height="180em" />
