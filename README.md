@@ -44,12 +44,8 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight"
-       alt="GitHub profile statistics for Arafat Fullstack Developer">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=tokyonight&hide=css,html"
-       alt="Most used programming languages for Arafat Fullstack Developer">
-  <img src="https://streak-stats.demolab.com?user=arafat-fullstackdev&theme=tokyonight"
-       alt="GitHub streak stats for Arafat Fullstack Developer">
+  <!-- Replace with your uploaded PNG file -->
+  <img src="9d9e9e03-d4e3-4bd5-b997-2ce84fefc2d5.png" alt="My GitHub Stats" width="700">
 </div>
 
 ---
@@ -64,5 +60,5 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 
 ---
 
-> *"The best way to predict the future is to create it."*
+> *"The best way to predict the future is to create it."*  
 > - **Peter Drucker**
