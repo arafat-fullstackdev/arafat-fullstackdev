@@ -45,12 +45,13 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight" 
+  <img src="https://YOUR-NEW-URL/api?username=arafat-fullstackdev&show_icons=true&theme=tokyonight"
        alt="GitHub profile statistics for Arafat Fullstack Developer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=tokyonight&hide=css,html" 
+  <img src="https://YOUR-NEW-URL/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=tokyonight&hide=css,html"
        alt="Most used programming languages for Arafat Fullstack Developer">
-  <img src="https://streak-stats.demolab.com?user=arafat-fullstackdev&theme=tokyonight" 
+  <img src="https://streak-stats.demolab.com?user=arafat-fullstackdev&theme=tokyonight"
        alt="GitHub streak stats for Arafat Fullstack Developer">
 </div>
 
