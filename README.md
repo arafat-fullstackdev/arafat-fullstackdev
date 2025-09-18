@@ -14,13 +14,13 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </div>
 
 ---
@@ -44,13 +44,19 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=radical&hide_border=true&refresh=1" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-fullstackdev&theme=dark&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak Stats" height="180em" />
+
+  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
   
-  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&langs_count=8&hide=html,css&theme=radical&hide_border=true&refresh=1" height="180em" />
+  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true" alt="Most Used Languages" height="180em" />
 </p>
 
+---
+
+## 🐍 My GitHub Activity
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arafat-fullstackdev&theme=radical&hide_border=true&refresh=1" height="180em" />
+  <img src="https://raw.githubusercontent.com/arafat-fullstackdev/arafat-fullstackdev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -61,8 +67,9 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
   <a href="https://www.linkedin.com/in/arafat-patwary-hg7hew087lhj/?_l=en_US" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-</div>
+  </div>
 
 ---
 
-> *"The best way to predict the future is to create it."* > - **Peter Drucker**
+> *"The best way to predict the future is to create it."*
+> - **Peter Drucker**
