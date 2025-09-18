@@ -45,10 +45,10 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=radical&hide_border=true" height="180em" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&langs_count=8&hide=html,css&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&langs_count=8&hide=html,css&theme=radical&hide_border=true" height="180em" />
 </p>
 
 <!-- Streak Stats -->
