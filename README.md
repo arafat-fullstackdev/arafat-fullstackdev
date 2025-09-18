@@ -44,16 +44,13 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=radical&hide_border=true&refresh=1" height="180em" />
   
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&langs_count=8&hide=html,css&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&langs_count=8&hide=html,css&theme=radical&hide_border=true&refresh=1" height="180em" />
 </p>
 
-<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arafat-fullstackdev&theme=radical&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=arafat-fullstackdev&theme=radical&hide_border=true&refresh=1" height="180em" />
 </p>
 
 ---
@@ -68,5 +65,4 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 
 ---
 
-> *"The best way to predict the future is to create it."*  
-> - **Peter Drucker**
+> *"The best way to predict the future is to create it."* > - **Peter Drucker**
