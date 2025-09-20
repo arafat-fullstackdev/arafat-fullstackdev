@@ -43,20 +43,26 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-fullstackdev&theme=dark&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak Stats" height="180em" />
 
-  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  
-  <img src="https://github-readme-stats-c6j8wzhfx-arafat-patwarys-projects.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true" alt="Most Used Languages" height="180em" />
+<p align="center">
+<a href="https://github.com/arafat-fullstackdev">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-fullstackdev&theme=merko&border=7F3FBF&background=0D1117" alt="arafat-fullstackdev's GitHub streak" width="100%"/>
+</a>
 </p>
-
----
-
-## 🐍 My GitHub Activity
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arafat-fullstackdev/arafat-fullstackdev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<a href="https://github.com/arafat-fullstackdev">
+<img src="https://github-readme-stats.vercel.app/api?username=arafat-fullstackdev&show_icons=true&theme=highcontrast" width="100%"/>
+</a>
+</p>
+<p align="center">
+
+<a href="https://github.com/arafat-fullstackdev">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafat-fullstackdev&theme=outrun" width="100%"/>
+</a>
+<a href="https://github.com/arafat-fullstackdev"> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arafat-fullstackdev&theme=outrun" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arafat-fullstackdev&theme=outrun&utcOffset=8" width="49.5%"/>
+</a>
 </p>
 
 ---
