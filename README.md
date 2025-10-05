@@ -45,7 +45,7 @@ I’m currently sharpening my skills in MERN Stack, TypeScript, and SQL to build
 
 <p align="center">
 <a href="https://github.com/arafat-fullstackdev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=highcontrast&hide=html,scss" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-fullstackdev&layout=compact&theme=highcontrast&hide=html,scss,css&langs_count=6&custom_title=Most%20Used%20Languages&include_repo=python" 
        alt="arafat-fullstackdev's Top Languages" width="49.5%"/>
 </a>
 
